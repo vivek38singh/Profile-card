@@ -206,19 +206,5 @@ body {
   transform: rotate(225deg);
 }
 
-@media screen and (max-width:480px){
-  .follow{
-    left: 190px;
-    top:30%;
-    bottom: 5%;
-    position: relative;
-
-  }
-  body{
-    overflow: scroll;
-    height: 120vh;
-  }
-  }
-
 
   
