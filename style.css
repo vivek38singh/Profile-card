@@ -220,22 +220,5 @@ body {
   }
   }
 
-@media screen and (min-width:480px) and (max-width:800px){
-  .follow{
-    left: 325px;
-    top:30%;
-    bottom: 5%;
-    position: relative;
-  }
-  body{
-    overflow: scroll;
-    height: 120vh;
-  }
-  }
-  @media screen and (min-width:800px) and (max-width:1200px){
-    .follow{
 
-
-    }
-
-  }
+  
